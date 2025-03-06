@@ -1,2 +1,2 @@
 # Reddit Clone
-A mockup of how Reddit would look like in SQL. 
+Test out the mocked database in Microsoft Access
